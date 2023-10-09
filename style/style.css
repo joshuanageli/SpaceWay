@@ -461,9 +461,9 @@ body {
       padding: 0px;
       margin-top: 10vh;
     }
-    
+
     .tech-image1 {
-      background: url("assets/technology/image-launch-vehicle-landscape.jpg");
+      background: url("/assets/technology/image-launch-vehicle-landscape.jpg");
       height: 40vh;
       background-repeat: no-repeat;
       background-size: contain;
