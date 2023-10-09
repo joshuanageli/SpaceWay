@@ -8,6 +8,7 @@ body {
   }
   .logo img {
     width: 40px;
+    display: flex;
   }
   .navbar-links ul li a {
     margin-top: 20px;
